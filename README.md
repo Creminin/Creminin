@@ -34,4 +34,4 @@
   
 </div>
 
-![Snake animation](https://github.com/Creminin/Creminin/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/creminin/creminin/blob/output/github-contribuition-grid-snake.svg)
