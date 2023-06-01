@@ -24,7 +24,7 @@
 <br/>
 
 <div>
-  <img src="https://www.imagemhost.com.br/images/2023/03/30/Frame-1.png" />
+  <img src="./.github/workflows/Frame 1.png" />
 </div>
 
 <div>
